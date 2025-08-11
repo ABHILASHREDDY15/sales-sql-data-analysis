@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,total_amount
+1,2024-03-11,1008,Smartphone,Electronics,1,20000,20000
+2,2024-01-27,1018,Shirt,Clothing,2,800,1600
+3,2024-04-18,1002,Smartphone,Electronics,5,20000,100000
+4,2024-02-25,1008,Laptop,Electronics,1,55000,55000
+5,2024-01-07,1018,Mixer Grinder,Home Appliances,5,4500,22500
+6,2024-04-17,1008,Shirt,Clothing,5,800,4000
+7,2024-03-12,1001,Microwave,Home Appliances,5,8000,40000
+8,2024-03-28,1009,Headphones,Electronics,4,1500,6000
+9,2024-03-27,1004,Headphones,Electronics,2,1500,3000
+10,2024-01-25,1012,Smartphone,Electronics,4,20000,80000
+11,2024-03-08,1002,Shoes,Clothing,5,2500,12500
+12,2024-02-01,1013,Microwave,Home Appliances,5,8000,40000
+13,2024-03-16,1020,Smartphone,Electronics,5,20000,100000
+14,2024-02-19,1003,Shoes,Clothing,5,2500,12500
+15,2024-03-15,1003,Laptop,Electronics,2,55000,110000
+16,2024-04-07,1009,Shirt,Clothing,1,800,800
+17,2024-02-11,1012,Microwave,Home Appliances,3,8000,24000
+18,2024-06-20,1009,Shoes,Clothing,2,2500,5000
+19,2024-06-11,1006,Smartphone,Electronics,5,20000,100000
+20,2024-02-11,1015,Mixer Grinder,Home Appliances,2,4500,9000
+21,2024-06-12,1018,Coffee Maker,Home Appliances,3,3500,10500
+22,2024-01-15,1008,Shirt,Clothing,3,800,2400
+23,2024-04-12,1009,Laptop,Electronics,3,55000,165000
+24,2024-05-25,1011,Smartphone,Electronics,2,20000,40000
+25,2024-04-11,1015,Shirt,Clothing,4,800,3200
+26,2024-02-05,1008,Headphones,Electronics,3,1500,4500
+27,2024-03-08,1019,Mixer Grinder,Home Appliances,5,4500,22500
+28,2024-04-12,1012,Coffee Maker,Home Appliances,5,3500,17500
+29,2024-05-10,1016,Shirt,Clothing,2,800,1600
+30,2024-01-29,1005,Smartphone,Electronics,1,20000,20000
+31,2024-06-01,1003,Headphones,Electronics,4,1500,6000
+32,2024-06-01,1015,Coffee Maker,Home Appliances,4,3500,14000
+33,2024-05-21,1001,Mixer Grinder,Home Appliances,3,4500,13500
+34,2024-03-09,1011,Smartphone,Electronics,5,20000,100000
+35,2024-04-21,1006,Smartphone,Electronics,3,20000,60000
+36,2024-03-08,1017,Microwave,Home Appliances,1,8000,8000
+37,2024-01-28,1010,Headphones,Electronics,5,1500,7500
+38,2024-02-20,1005,Mixer Grinder,Home Appliances,5,4500,22500
+39,2024-05-18,1017,Shoes,Clothing,2,2500,5000
+40,2024-03-23,1016,Laptop,Electronics,5,55000,275000
+41,2024-04-02,1010,Laptop,Electronics,1,55000,55000
+42,2024-03-02,1019,Shirt,Clothing,1,800,800
+43,2024-05-04,1003,Smartphone,Electronics,1,20000,20000
+44,2024-02-02,1016,Mixer Grinder,Home Appliances,2,4500,9000
+45,2024-03-08,1017,Mixer Grinder,Home Appliances,2,4500,9000
+46,2024-02-24,1018,Book,Stationery,4,400,1600
+47,2024-04-12,1012,Shirt,Clothing,3,800,2400
+48,2024-04-25,1004,Microwave,Home Appliances,5,8000,40000
+49,2024-01-17,1011,Shirt,Clothing,2,800,1600
+50,2024-05-21,1008,Laptop,Electronics,5,55000,275000
